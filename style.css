@@ -7,3 +7,14 @@ body {
 h1{
     background-color: rgb(51, 94, 187);
 }
+<header class="cabecalho">
+<h1 class="cabecalho-titulo">
+.cabecalho{
+    background-color: var (--cor-cabecalho) ;
+}
+.cabecalho-titulo {
+    font-size: 36px;
+    font-weight: 700;
+    padding: 12px;
+    text-align: center;
+}
